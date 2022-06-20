@@ -14,6 +14,7 @@
 		7A0B04CD28604DAF00A08EE7 /* Deep_GithubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B04CC28604DAF00A08EE7 /* Deep_GithubTests.swift */; };
 		7A0B04D728604DAF00A08EE7 /* Deep_GithubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B04D628604DAF00A08EE7 /* Deep_GithubUITests.swift */; };
 		7A0B04D928604DAF00A08EE7 /* Deep_GithubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B04D828604DAF00A08EE7 /* Deep_GithubUITestsLaunchTests.swift */; };
+		7A86A05928604ECD0068B716 /* p1feature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A86A05828604ECD0068B716 /* p1feature1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		7A0B04D228604DAF00A08EE7 /* Deep GithubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Deep GithubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A0B04D628604DAF00A08EE7 /* Deep_GithubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deep_GithubUITests.swift; sourceTree = "<group>"; };
 		7A0B04D828604DAF00A08EE7 /* Deep_GithubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deep_GithubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7A86A05828604ECD0068B716 /* p1feature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1feature1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				7A0B04BB28604DAD00A08EE7 /* Deep_GithubApp.swift */,
+				7A86A05828604ECD0068B716 /* p1feature1.swift */,
 				7A0B04BD28604DAD00A08EE7 /* ContentView.swift */,
 				7A0B04BF28604DAF00A08EE7 /* Assets.xcassets */,
 				7A0B04C128604DAF00A08EE7 /* Preview Content */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A86A05928604ECD0068B716 /* p1feature1.swift in Sources */,
 				7A0B04BE28604DAD00A08EE7 /* ContentView.swift in Sources */,
 				7A0B04BC28604DAD00A08EE7 /* Deep_GithubApp.swift in Sources */,
 			);
